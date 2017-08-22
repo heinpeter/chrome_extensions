@@ -1,0 +1,27 @@
+{ "manifest_version"        : 2
+, "minimum_chrome_version"  : "28.0"
+
+, "default_locale"          : "en_US"
+, "name"                    : "__MSG_name_long__"
+, "short_name"              : "__MSG_name_shrt__"
+, "description"             : "__MSG_name_desc__"
+, "author"                  : "__MSG_name_athr__"
+, "homepage_url"            : "https://github.com/eladkarako/"
+, "version"                 : "1.0.0.3"
+
+, "offline_enabled"         : false
+
+, "permissions"             : [ "*://*/*"
+                              , "webRequest"
+                              , "webRequestBlocking"
+                              , "declarativeWebRequest"
+                              ]
+, "background"              : { "scripts":    [ 
+                                                "resources/background_response_manipulation.js"
+                                              ]
+                              , "persistent": true 
+                              }
+,"icons"                    : { "512": "resources/icon.png" }
+,"browser_action"           : {
+                              }
+}

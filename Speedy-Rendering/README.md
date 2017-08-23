@@ -17,7 +17,16 @@ This extension will make your browser smarter and will allow some enhancements,
 - You Will Notice An Improvement Immediately (No Need To Restart The Browser).
 - 100% Compatible with *every page*, In every page you'll feel (at least) a slightly improvement on responsiveness and overall experience.
 
+
 <h3>This Extension Is A Great Way To Enhance Browsing :)</h3>
+
+
+<hr/>
+
+Known issues, or more like an undesired side-effects
+- You will loose some of the more advanced-features of the font-face, including some character-replacing or "connecting" (Arabic/Hindu  characters, for example, will be less stylish), but it is a more of a style-issue.
+- Google's I'm not a robot will be shown wider due to breaking of the content over more-lines than usual (it uses iframe with content aligned in a weird way).
+- Faster rendering means that the anti-aliasing will be less effective, so characters will seem more thin (but also more clear than usual).
 
 <pre>
 Developer's HUB / Changelog

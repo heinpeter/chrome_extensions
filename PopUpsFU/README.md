@@ -8,6 +8,9 @@ You = Safe. Pop-Ups = 🖕︎!
 <pre>
 Developer's HUB / Changelog
 
+1.0.4.6
+* ignore-rules: ignore on github.com domain, since github.com uses listeners for menues.
+
 1.0.4.5
 + double the effort of blocking bad-objects- in additional to deleting the object reference itself, try to delete actual objects (by its reference).
 * workaround early-loading-stage (before body) empty script-injection by using innerHTML instead of text-node-child to set the injector content.

@@ -21,6 +21,10 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.0.8
++ adding support for W3Schools code-segments, although it is a shitty website and you should always prefer Mozilla's website.
+* improving query for new elements on dynamic pages with PJAX/SPF/generic.
+
 8.0.0.4
 + adding support for github's last node path (file/folder name) at the file/folder browser.
 

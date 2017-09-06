@@ -20,6 +20,9 @@ since it will you whatever download-mirror either you, (or SourceForge set for y
 <pre>
 Developer's HUB / Changelog
 
+2.0.3.3
+* improved result by resolving 302-redirects (from "waiting-screen") to final target URL.
+
 2.0.2.4
 + added support for Chrome's idle state.
 - reduce package size.

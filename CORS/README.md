@@ -12,6 +12,9 @@
 <pre>
 Developer's HUB / Changelog
 
+2.0.0.2
++ adding additional header to expose and allow.
+
 2.0.0.1
 + initial.
 </pre>

@@ -5,13 +5,14 @@
 <br/><a href="AutoComplete-Enabler/"        ><img alt="" width="32" height="32" src="AutoComplete-Enabler/resources/icon.png"        /> AutoComplete-Enabler</a>
 <br/><a href="Behind-The-Asterisks/"        ><img alt="" width="32" height="32" src="Behind-The-Asterisks/resources/icon.png"        /> Behind-The-Asterisks</a>
 <br/><a href="Boostaler/"                   ><img alt="" width="32" height="32" src="Boostaler/resources/icon.png"                   /> Boostaler</a>
-<br/><a href="CORS-Enabler/"                ><img alt="" width="32" height="32" src="CORS-Enabler/resources/icon.png"                /> CORS-Enabler</a>
+<br/><a href="CORS/"                        ><img alt="" width="32" height="32" src="CORS/resources/icon.png"                        /> CORS</a>
 <br/><a href="CSS-Image/"                   ><img alt="" width="32" height="32" src="CSS-Image/resources/icon.png"                   /> CSS-Image</a>
 <br/><a href="eBay-Boxed/"                  ><img alt="" width="32" height="32" src="eBay-Boxed/resources/icon.png"                  /> eBay-Boxed</a>
 <br/><a href="eBay-Top-Pagination/"         ><img alt="" width="32" height="32" src="eBay-Top-Pagination/resources/icon.png"         /> eBay-Top-Pagination</a>
 <br/><a href="Editable/"                    ><img alt="" width="32" height="32" src="Editable/resources/icon.png"                    /> Editable</a>
 <br/><a href="Ellipsis-Fix/"                ><img alt="" width="32" height="32" src="Ellipsis-Fix/resources/icon.png"                /> Ellipsis-Fix</a>
 <br/><a href="Enabler/"                     ><img alt="" width="32" height="32" src="Enabler/resources/icon.png"                     /> Enabler</a>
+<br/><a href="FileHippo-Direct/"            ><img alt="" width="32" height="32" src="FileHippo-Direct/resources/icon.png"            /> FileHippo-Direct</a>
 <br/><a href="FTP-Fix/"                     ><img alt="" width="32" height="32" src="FTP-Fix/resources/icon.png"                     /> FTP-Fix</a>
 <br/><a href="GitHub-Download-List/"        ><img alt="" width="32" height="32" src="GitHub-Download-List/resources/icon.png"        /> GitHub-Download-List</a>
 <br/><a href="Google-URL-Select/"           ><img alt="" width="32" height="32" src="Google-URL-Select/resources/icon.png"           /> Google-URL-Select</a>
@@ -36,4 +37,5 @@
 <br/><a href="Tahoma-CourierNew/"           ><img alt="" width="32" height="32" src="Tahoma-CourierNew/resources/icon.png"           /> Tahoma-CourierNew</a>
 <br/><a href="Unicode/"                     ><img alt="" width="32" height="32" src="Unicode/resources/icon.png"                     /> Unicode</a>
 <br/><a href="UnLazy/"                      ><img alt="" width="32" height="32" src="UnLazy/resources/icon.png"                      /> UnLazy</a>
+<br/><a href="UserAgent/"                   ><img alt="" width="32" height="32" src="UserAgent/resources/icon.png"                   /> UserAgent</a>
 <br/><a href="XDA/"                         ><img alt="" width="32" height="32" src="XDA/resources/icon.png"                         /> XDA</a>

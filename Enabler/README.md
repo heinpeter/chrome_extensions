@@ -30,6 +30,9 @@
 <pre>
 Developer's HUB / Changelog
 
+3.0.2.8
++ handling "controlslist" to allow downloading media-elements.
+
 3.0.2.7
 * improved main content scroll behavior.
 

@@ -21,6 +21,15 @@ This is also makes especially easy to edit Unicode/UTF-8 content since browsers 
 <pre>
 Developer's HUB / Changelog
 
+8.0.1.2
+* adjustments for events used for dynamic content loading (pjax/offline rendering) used usually in GitHub's-framework, but will probably fit other websites too.
+
+8.0.1.1
+* code fix/cleanup.
+
+8.0.0.9
++ adding github's danger-zone repository easy copy.
+
 8.0.0.8
 + adding support for W3Schools code-segments, although it is a shitty website and you should always prefer Mozilla's website.
 * improving query for new elements on dynamic pages with PJAX/SPF/generic.

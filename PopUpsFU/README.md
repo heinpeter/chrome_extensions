@@ -8,6 +8,10 @@ You = Safe. Pop-Ups = 🖕︎!
 <pre>
 Developer's HUB / Changelog
 
+1.0.4.7
++ excluding *.eBay.* hostname since it uses document.write and eval (in review pages).
+* adding some other descriptions/reorder exception-rules (readability).
+
 1.0.4.6
 * ignore-rules: ignore on github.com domain, since github.com uses listeners for menues.
 

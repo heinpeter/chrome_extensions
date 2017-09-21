@@ -15,6 +15,9 @@ for example: <a href="https://www.google.com/search?num=50&gbv=1&q=site%3Afilehi
 Developer's HUB / Changelog
 
 
+2.0.0.2
+* put download button above other layers.
+
 2.0.0.1
 + initial
 </pre>

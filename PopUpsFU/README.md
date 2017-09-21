@@ -8,6 +8,9 @@ You = Safe. Pop-Ups = 🖕︎!
 <pre>
 Developer's HUB / Changelog
 
+1.0.4.8
++ excluding youtube since its new UI uses global listeners.
+
 1.0.4.7
 + excluding *.eBay.* hostname since it uses document.write and eval (in review pages).
 * adding some other descriptions/reorder exception-rules (readability).

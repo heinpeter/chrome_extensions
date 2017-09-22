@@ -32,6 +32,11 @@ Known issues, or more like an undesired side-effects
 Developer's HUB / Changelog
 
 
+2.0.3.5
+- removed normalizer code, favoring overriding anyway...
++ adding another prefix (to make thing generic for copy paste, really just for me...)
+- removing zoom from touch-action, to make it compatible with older browsers too (just "pan-x pan-y")...
+
 2.0.3.4
 * keeping the gentle-inheritance-rule, but modifying the from HTML to * again, to specificall address every element (but w/o ::before/::after yet).
 * adding !important override for every stage start/ready/load again.

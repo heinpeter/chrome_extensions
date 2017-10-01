@@ -18,6 +18,9 @@
 <pre>
 Developer's HUB / Changelog
 
+1.9.8.8
++ remove click tracking at nana10.co.il
+
 1.9.8.7
 + adding reddit first-layer redirect links (second layer is a BASE64-JSON but it carries other info so I will keep it for now...)
 
